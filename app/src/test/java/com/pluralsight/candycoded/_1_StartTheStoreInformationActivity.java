@@ -54,7 +54,7 @@ public class _1_StartTheStoreInformationActivity {
             }
 
             try {
-                onOptionsItemSelected_result = activity.onOptionsItemSelected(null);
+                onOptionsItemSelected_result = activity.onOptionsItemSelected((MenuItem) null);
             } catch (Throwable e) {
                 //e.printStackTrace();
             }
